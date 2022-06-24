@@ -296,7 +296,7 @@ ul {
 }
 .modal-close:focus,
 .modal-close:hover {
-  color:var(--hero-color);
+  color: var(--hero-color);
 }
 .modal-close:focus .icon-close,
 .modal-close:hover .icon-close {
@@ -314,7 +314,7 @@ ul {
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
-  margin-bottom: 20px;
+  margin-bottom: 12px;
 }
 .form-field {
   display: flex;
@@ -350,7 +350,7 @@ ul {
   background-color: transparent;
   padding-left: 42px;
   outline: transparent;
-
+ 
 }
 
 .modal-input:focus,
